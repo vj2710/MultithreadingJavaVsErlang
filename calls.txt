@@ -1,0 +1,9 @@
+{john, [jill,joe,bob]}.
+{jill, [bob,joe,bob]}.
+{a, [bob, c]}.
+{sue, [jill,jill,jill,bob,jill]}.
+{bob, [john]}.
+{joe, [sue]}.
+{d, [a, f]}.
+{c, [a, d, sue]}.
+{f, [bob, c]}.
